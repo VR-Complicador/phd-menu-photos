@@ -1,7 +1,0 @@
-Photos for the Performance bike build form (the build menu)
-
-The photos sit at the top of this repository, one file per part number (like 100-1400.jpg), plus check.jpg for the app's photo check.
-GitHub Pages serves them at https://vr-complicador.github.io/phd-menu-photos
-That address goes in the Work Board: Shop setup > Build menu > Photo address.
-
-New photos later: copy them into this folder (named by part number, .jpg), then in GitHub Desktop commit and push.
